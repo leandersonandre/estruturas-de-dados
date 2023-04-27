@@ -3,4 +3,5 @@
 
 - Lista Arranjo
 - Lista Arranjo 2
-- Lista Simplesmente encadeada
+- Lista duplamente encadeada
+- Lista encadeada circular
